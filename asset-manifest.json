@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/React-business-portfolio/static/js/main.8b750f21.chunk.js",
+    "main.js.map": "/React-business-portfolio/static/js/main.8b750f21.chunk.js.map",
+    "runtime-main.js": "/React-business-portfolio/static/js/runtime-main.af5b48a5.js",
+    "runtime-main.js.map": "/React-business-portfolio/static/js/runtime-main.af5b48a5.js.map",
+    "static/js/2.87b6c03d.chunk.js": "/React-business-portfolio/static/js/2.87b6c03d.chunk.js",
+    "static/js/2.87b6c03d.chunk.js.map": "/React-business-portfolio/static/js/2.87b6c03d.chunk.js.map",
+    "static/js/3.8aad09cb.chunk.js": "/React-business-portfolio/static/js/3.8aad09cb.chunk.js",
+    "static/js/3.8aad09cb.chunk.js.map": "/React-business-portfolio/static/js/3.8aad09cb.chunk.js.map",
+    "index.html": "/React-business-portfolio/index.html",
+    "static/js/2.87b6c03d.chunk.js.LICENSE.txt": "/React-business-portfolio/static/js/2.87b6c03d.chunk.js.LICENSE.txt",
+    "static/media/clock.4b7cde7e.svg": "/React-business-portfolio/static/media/clock.4b7cde7e.svg",
+    "static/media/diaphragm.db801491.svg": "/React-business-portfolio/static/media/diaphragm.db801491.svg",
+    "static/media/home1.9836de69.png": "/React-business-portfolio/static/media/home1.9836de69.png",
+    "static/media/home2.a65a4256.png": "/React-business-portfolio/static/media/home2.a65a4256.png",
+    "static/media/money.72da7c48.svg": "/React-business-portfolio/static/media/money.72da7c48.svg",
+    "static/media/teamwork.aa71db2e.svg": "/React-business-portfolio/static/media/teamwork.aa71db2e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af5b48a5.js",
+    "static/js/2.87b6c03d.chunk.js",
+    "static/js/main.8b750f21.chunk.js"
+  ]
+}
